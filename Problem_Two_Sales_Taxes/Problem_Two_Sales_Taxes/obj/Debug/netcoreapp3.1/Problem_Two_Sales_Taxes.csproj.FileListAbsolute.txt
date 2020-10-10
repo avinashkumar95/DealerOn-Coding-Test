@@ -1,0 +1,12 @@
+/Users/avinashkumar/Projects/Problem_Two_Sales_Taxes/Problem_Two_Sales_Taxes/bin/Debug/netcoreapp3.1/Problem_Two_Sales_Taxes.deps.json
+/Users/avinashkumar/Projects/Problem_Two_Sales_Taxes/Problem_Two_Sales_Taxes/bin/Debug/netcoreapp3.1/Problem_Two_Sales_Taxes.runtimeconfig.json
+/Users/avinashkumar/Projects/Problem_Two_Sales_Taxes/Problem_Two_Sales_Taxes/bin/Debug/netcoreapp3.1/Problem_Two_Sales_Taxes.runtimeconfig.dev.json
+/Users/avinashkumar/Projects/Problem_Two_Sales_Taxes/Problem_Two_Sales_Taxes/bin/Debug/netcoreapp3.1/Problem_Two_Sales_Taxes.dll
+/Users/avinashkumar/Projects/Problem_Two_Sales_Taxes/Problem_Two_Sales_Taxes/bin/Debug/netcoreapp3.1/Problem_Two_Sales_Taxes.pdb
+/Users/avinashkumar/Projects/Problem_Two_Sales_Taxes/Problem_Two_Sales_Taxes/obj/Debug/netcoreapp3.1/Problem_Two_Sales_Taxes.csprojAssemblyReference.cache
+/Users/avinashkumar/Projects/Problem_Two_Sales_Taxes/Problem_Two_Sales_Taxes/obj/Debug/netcoreapp3.1/Problem_Two_Sales_Taxes.AssemblyInfoInputs.cache
+/Users/avinashkumar/Projects/Problem_Two_Sales_Taxes/Problem_Two_Sales_Taxes/obj/Debug/netcoreapp3.1/Problem_Two_Sales_Taxes.AssemblyInfo.cs
+/Users/avinashkumar/Projects/Problem_Two_Sales_Taxes/Problem_Two_Sales_Taxes/obj/Debug/netcoreapp3.1/Problem_Two_Sales_Taxes.csproj.CoreCompileInputs.cache
+/Users/avinashkumar/Projects/Problem_Two_Sales_Taxes/Problem_Two_Sales_Taxes/obj/Debug/netcoreapp3.1/Problem_Two_Sales_Taxes.dll
+/Users/avinashkumar/Projects/Problem_Two_Sales_Taxes/Problem_Two_Sales_Taxes/obj/Debug/netcoreapp3.1/Problem_Two_Sales_Taxes.pdb
+/Users/avinashkumar/Projects/Problem_Two_Sales_Taxes/Problem_Two_Sales_Taxes/obj/Debug/netcoreapp3.1/Problem_Two_Sales_Taxes.genruntimeconfig.cache
